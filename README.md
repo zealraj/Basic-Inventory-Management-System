@@ -1,0 +1,2 @@
+# Basic-Inventory-Management-System
+A small local grocery store currently keeps track of their groceries inventory on a piece of paper. So I built a basic inventory management system for them where they can do four different things:  Add an item to the inventory system. The item needs to have an id, name, price, and stock level  Remove an item from the inventory  Increase the stock of an item by a specific amount  Decrese the stock of an item by a specific amount
